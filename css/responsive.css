@@ -1,0 +1,482 @@
+@media (min-width: 200px) and (max-width: 1010px){
+	.nav-bar{
+		padding: 10px 20px;
+	}
+
+	.menu ul{
+		margin-top: 0;
+	}
+
+	.menu ul li a{
+		padding: 12px;
+		color: orange;
+	}
+
+	.skill h2{
+		margin-top: 30px;
+	}
+
+	.about{
+		padding: 30px;
+	}
+
+	.owl-carousel{
+		padding: 30px;
+	}
+
+	.contact-section{
+		padding: 30px;
+	}
+
+	.contact-section .c-box h5{
+		font-size: 15px;
+	}
+
+	.contact-section .c-box p{
+		font-size: 13px;
+	}
+
+}
+
+@media (min-width: 200px) and (max-width: 850px){
+	.background{
+		background: linear-gradient(to right, #2193b0, #6dd5ed);
+		position: relative;
+	}
+
+	.background:before{
+		content: '';
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		width: 100%;
+		height: 100px;
+		background: url("../images/wave.png");
+		background-size: cover;
+	}
+
+	.background:after{
+		content: '';
+		position: absolute;
+		bottom: 0;
+		left: 5px;
+		width: 100%;
+		height: 107px;
+		background: url("../images/wave.png");
+		opacity: 0.4;
+		background-size: cover;
+		background-repeat: no-repeat;
+	}
+
+	.nav-bar{
+		padding:10px;
+	}
+
+	.menu ul{
+		margin-top: 0;
+	}
+
+	.menu ul li a{
+		padding: 10px;
+		font-size: 16px;
+		color: orange;
+	}
+
+	.home-text{
+		padding: 5px;
+		box-sizing: border-box;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+		margin-bottom: 10%;
+		text-align: center;
+	}
+
+	.home-text h2{
+	font-size: 30px;
+	font-family: "poppins";
+	color: #fff;
+	text-align: left;
+}
+
+	.home-image{
+		display: none;
+	}
+
+	.contact-section{
+		padding: 30px;
+	}
+
+	.c-box{
+		width: 48%;
+		box-shadow:1px 1px 20px #b8b5ad;
+	}
+
+	.c-middle{
+		margin: 0;
+	}
+
+	.c-last{
+		float: left;
+	}
+
+	.c-box .fa{
+		font-size: 25px;
+	}
+
+	.contact-section .c-box h5{
+		font-size: 18px;
+	}
+
+	.contact-section .c-box p{
+		font-size: 15px;
+	}
+
+	.counter-section{
+		padding: 30px 30px 0;
+	}
+
+	.form{
+		width: 90%;
+		padding: 10px;
+	}
+
+	.testimonial{
+		padding: 30px;
+	}
+
+	.t-box p{
+		font-size: 18px;
+	}
+
+	.t-box h4{
+		font-size: 20px;
+	}
+
+	.t-box h4{
+		font-size: 18px;
+	}
+}
+
+@media (min-width: 200px) and (max-width: 650px){
+		.banner {
+  margin-top: 2%;
+  padding: 5px;
+  box-sizing: border-box;
+  width: 100%;
+  display: table;
+	}
+
+	.banner .info{
+		width: 100%;
+	}
+
+	.banner h1{
+		font-size: 50px;
+		text-align: center;
+	}
+
+	.banner img{
+		display: none;
+	}
+
+	.slogan{
+		font-size: 18px;
+		font-weight: bolder;
+	}
+
+	.about{
+		padding: 5px;
+		box-sizing: border-box;
+	}
+
+	.about h2{
+		font-size: 20px;
+	}
+
+	.about-image{
+		display: none;
+	}
+
+	.intro{
+		display: block;
+		float: none;
+		width: 100%;
+	}
+
+	.founder{
+		padding: 5px 10px;
+	}
+
+	.title{
+	letter-spacing: 0.1em;
+	font-size: 30px;
+}
+
+
+	.name2 .title{
+	float:  none;
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+
+.name2 .position1{
+		float:  none;
+	display: block;
+	margin: auto;
+}
+
+	.name .title{
+	float:  none;
+	text-align: center;
+	display: block;
+	margin: auto;
+}
+
+.name .position1{
+		float:  none;
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+
+	.founder .founder-image img{
+		float: none;
+		display: block;
+		margin: auto;
+	}
+
+	.position1{
+	font-family: poppins;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+
+	.name, .name2{
+		padding: 10px;
+		display: block;
+		margin: auto;
+		float: none;
+	}
+	.container1 h3{
+		font-size: 25px;
+	}
+
+	.typing h2{
+		font-size: 18px;
+	}
+
+	.nav-bar{
+		padding: 2px;
+	}
+
+	.logo h1{
+		font-size: 20px;
+		color: #283593;
+		margin-top: 10px;
+	}
+
+	.about{
+		padding: 15px;
+	}
+
+	.menu{
+		float: right;
+	}
+
+	.menu ul{
+		margin-top: 0;
+	}
+
+	.menutoggle{
+		display: block;
+		float: right;
+		text-align: center;
+		transition: 0.5s;
+		cursor: pointer;
+	}
+
+	.menutoggle:before{
+		content: '\f0c9';
+		font-family: 'FontAwesome';
+		font-size: 35px;
+		color: #fff;
+		transition: 0.5s;
+	}
+
+	.menutoggle.nav-active:before{
+		content: '\f00d';
+	}
+
+	.menu{
+		display: none;
+		transition: 0.5s ease;
+	}
+
+	.menu.nav-active{
+		display: block;
+		width: 100%;
+	}
+
+	.menu.nav-active{
+		float: left;
+		padding: 0;
+		text-align: left;
+	}
+
+	.menu.nav-active ul{
+		display: block;
+	}
+
+	.menu.nav-active  ul li{
+		display: block;
+		width: 100%;
+		margin-top: 15px;
+		background: #fff;
+	}
+
+	.menu.nav-active ul li a{
+		font-size: 18px;
+		background: none;
+	}
+
+	.menu ul li a{
+		padding:3px;
+		font-size: 13px;
+		color: #000;
+	}
+
+	.contact-section{
+		padding: 15px;
+	}
+
+	.c-box{
+		width:100%;
+		margin-top: 20px;
+	}
+
+	.c-box .fa{
+		font-size: 35px;
+	}
+
+	.contact-section .c-box h5{
+		font-size: 20px;
+	}
+
+	.contact-section .c-box p{
+		font-size: 18px;
+	}
+
+	.send-message{
+		padding: 30px 15px;
+	}
+
+	.form{
+		width: 100%;
+		padding: 15px;
+	}
+
+	.introduction{
+		text-align: left;
+	}
+
+	.services h2{
+	margin-top: 2%;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bolder;
+	margin-bottom: 2%;
+}
+
+.services-container{
+	padding: 20px;
+}
+
+.services-container p{
+	font-size: 30px;
+	font-weight: bolder;
+	letter-spacing: 0.3em;
+}
+
+.box{
+	width: 100%;
+	display: block;
+	margin-bottom: 20px;
+}
+
+.box-middle{
+	margin-left:0%;
+}
+
+.box-last{
+	float: right;
+	display: block;
+}
+
+.box img{
+	display: block;
+	margin: auto;
+	margin-bottom: 3%;
+}
+
+.box h3{
+	font-family: lato;
+	font-weight: bold;
+	text-align: center;
+	font-size: 25px;
+	margin-bottom: 7%;
+}
+
+.box .read{
+	letter-spacing: 0em;
+	text-align: center;
+	font-family: quicksand;
+	font-size: 15px;
+	color: skyblue;
+	text-decoration: none;
+}
+
+.contact-section{
+	width: 100%;
+	display: block;
+	padding: 5px;
+	float: none;
+	box-sizing: border-box;
+}
+
+.c-box{
+	margin: 0;
+	margin-bottom: 15px;
+}
+
+.counter{
+	padding: 5px;
+	display: table;
+	box-sizing: border-box;
+	width: 100%;
+}
+
+.counter-box{
+	text-align: center;
+	padding: 5px 0;
+	width: 100%;
+	height: 150px;
+	background-color: #fff;
+	float: none;
+	display: block;
+	border-radius: 15px;
+	margin-bottom: 15px;
+}
+
+.counter-2 , .counter-3{
+	margin-left: 0;
+}
+
+.counter-4{
+	float: none;
+}
+
+}
